@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>Tu mama en tangas</h1>
+    <h1>Este es un cambio</h1>
   </div>
 </template>
 
